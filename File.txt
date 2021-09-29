@@ -3,3 +3,5 @@ Welcome to Git
 Welcome to Bug11.
 
 Hello World!!!
+
+Change : CR1 by teammate on remote master to check rebase.
