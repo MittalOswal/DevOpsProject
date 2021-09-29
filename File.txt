@@ -2,6 +2,15 @@ Welcome to Git
 
 Welcome to Bug11.
 
+ HEAD
 Hello World!!!
 
 Change : CR1 by teammate on remote master to check rebase.
+
+Hello World!!!.
+
+
+Change : for bug11 on local master to check rebase
+c082b55 (bug11 : File updated to check local master and rebase)
+
+Change : for rebase 
